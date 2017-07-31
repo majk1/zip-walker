@@ -78,6 +78,7 @@
                 <artifactId>coveralls-maven-plugin</artifactId>
                 <version>4.3.0</version>
                 <configuration>
+                    <jacocoReports>${project.build.directory}/coverage-reports/jacoco-report/jacoco.xml</jacocoReports>
                     <repoToken>${env.COVERALLS_REPO_TOKEN}</repoToken>
                 </configuration>
             </plugin>
