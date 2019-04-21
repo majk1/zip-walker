@@ -7,4 +7,4 @@ read and process some files.
 
 ---
 
-[SonarCould - io.codelens.tools:zip-walker](https://sonarcloud.io/dashboard?id=io.codelens.tools%3Azip-walker)
+[SonarCloud - io.codelens.tools:zip-walker](https://sonarcloud.io/dashboard?id=io.codelens.tools%3Azip-walker)
